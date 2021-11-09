@@ -27,8 +27,8 @@ School district summary before:
 
 How is the school summary affected?
 
-The updated analysis only affects Thomas High School in the overall school summary.
-The passin rate
+The updated analysis only affects Thomas High School in the overall school summary. All other scores stay unchanged.
+The %Passing rate for Thomas High School increased from ... to 97.0...The Overall Passing for the school to 90.630324%
 
 Per School summary after update:
 
@@ -43,7 +43,10 @@ Per School summary before:
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 Top Schools bottom  schools
+
 ![image](https://user-images.githubusercontent.com/91682586/140994927-043549f6-6119-436a-be24-4cd01d5c8c15.png)
+
+
 ![image](https://user-images.githubusercontent.com/91682586/140994996-2df173ef-439c-4339-b11c-a549b9685180.png)
 
 
