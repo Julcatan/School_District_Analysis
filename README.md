@@ -18,7 +18,8 @@ School district summary
 
 School district summary before
 
-![image](https://user-images.githubusercontent.com/91682586/140989498-0b7f7e89-6ffe-4dc0-a0c5-0d15e944d40d.png)
+![image](https://user-images.githubusercontent.com/91682586/140990510-561e55b3-9220-41f0-87fe-4bbb5a246b48.png)
+
 
 
 
@@ -32,6 +33,7 @@ Per School summary:
 
 
 Per School summary before:
+![image](https://user-images.githubusercontent.com/91682586/140990700-d4b3aab7-5c41-4cad-9357-4d9a0706cd4f.png)
 
 
 
