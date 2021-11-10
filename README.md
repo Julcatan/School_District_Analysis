@@ -117,6 +117,7 @@ before: ![image](https://user-images.githubusercontent.com/91682586/141182719-75
 ___
  - Scores by school size:
  The scores by school size did not change.
+ Medium Schools showed the best results,
  
 ![image](https://user-images.githubusercontent.com/91682586/140995815-51b05cd0-83ab-4876-a590-d8e6480d7204.png)
 
@@ -125,6 +126,7 @@ before:
 ![image](https://user-images.githubusercontent.com/91682586/141182089-f93f9576-b3bb-4fe3-b90b-4f2657ce92c7.png)
 ---
  - Scores by school type
+   - scores have not changed. Charter schools show th best results. 
 
 after update:
 
