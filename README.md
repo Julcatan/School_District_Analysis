@@ -81,36 +81,32 @@ Bottom Schools before:
 
  - Math and reading scores by grade
 
+  
 
-  Math scores by grade after update :
-  ![image](https://user-images.githubusercontent.com/91682586/141178321-cb9d27e1-7bc6-4566-8e2e-6cfa0b9e8c7b.png)
+  
 
-
-  Math Scores by Grade before::
-  ![image](https://user-images.githubusercontent.com/91682586/141177451-0dafc698-8b85-4955-904d-be5b456ebbae.png)
-
-
-
-  Reading Scores by Grade after update: 
-  ![image](https://user-images.githubusercontent.com/91682586/141178375-14b0c188-fa96-4f48-a2df-32e0cfbfcdff.png)
-
-
-
-  Reading scores by Grade before: 
-  ![image](https://user-images.githubusercontent.com/91682586/141178003-431575b2-54e8-49bb-a930-45be1bb1f08f.png)
-
+  
+  
+  
 
 
 
 - Scores by school spending
  ![image](https://user-images.githubusercontent.com/91682586/140995639-c2baea34-3738-4942-921d-2256124e3dbf.png)
 
+
+before: 
+
  - Scores by school size
 ![image](https://user-images.githubusercontent.com/91682586/140995815-51b05cd0-83ab-4876-a590-d8e6480d7204.png)
+
+before: ![image](https://user-images.githubusercontent.com/91682586/141182089-f93f9576-b3bb-4fe3-b90b-4f2657ce92c7.png)
+
  - Scores by school type
 
 ![image](https://user-images.githubusercontent.com/91682586/140995899-da08c16a-f973-47ca-b69d-d9de991c71c3.png)
 
+before: ![image](https://user-images.githubusercontent.com/91682586/141182197-2f1ef6e8-a7ce-48eb-b277-d0987f4d7d82.png)
 
 Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
