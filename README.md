@@ -55,6 +55,8 @@ The other data in the summary was not affected.
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+The changes did not affect the order of the Top Schools. Thomas High is still the 2nd best school.
+
 Top Schools after update:
 
 ![image](https://user-images.githubusercontent.com/91682586/141137327-9b29d110-95bb-4fe5-b745-cfd037e92ca3.png)
@@ -70,22 +72,36 @@ Top Schools before:
 ![image](https://user-images.githubusercontent.com/91682586/141136747-1f7b8ca8-3afa-4123-a8ba-d0594fa12952.png)
 
 
-
 Bottom Schools before:
 
 ![image](https://user-images.githubusercontent.com/91682586/141136874-6ffb8107-bf99-4f6a-93cf-27eecbc8bae3.png)
 
 
-
-
-How does replacing the ninth-grade scores affect the following:
+### How does replacing the ninth-grade scores affect the following:
 
  - Math and reading scores by grade
 
-Math Scores by Grade
-math scores by grade new ![image](https://user-images.githubusercontent.com/91682586/140995090-193b5e3c-0b65-4fcb-9501-9d41c6d83b0f.png)
-Reading Scores by Grade
-reading scores by  grade new ![image](https://user-images.githubusercontent.com/91682586/140995168-c00ab811-2e07-4e90-a57b-5439f3b840a6.png)
+Math scores by grade after update :
+
+![image](https://user-images.githubusercontent.com/91682586/141175802-0c08192e-142d-457a-9600-94bd7d997205.png)
+
+
+Math Scores by Grade before:
+![image](https://user-images.githubusercontent.com/91682586/141176276-54e5a102-927f-417d-b688-326b0438e61e.png)
+
+
+
+Reading Scores by Grade after update: 
+![image](https://user-images.githubusercontent.com/91682586/141175846-77ad3053-daa8-471d-9010-83759bcf005d.png)
+
+
+reading scores by grade before: 
+
+![image](https://user-images.githubusercontent.com/91682586/141176839-4d2ec099-9608-4e48-9ee1-164ebaea02de.png)
+
+
+
+
 
 - Scores by school spending
  ![image](https://user-images.githubusercontent.com/91682586/140995639-c2baea34-3738-4942-921d-2256124e3dbf.png)
