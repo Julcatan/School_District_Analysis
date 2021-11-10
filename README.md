@@ -83,8 +83,9 @@ Bottom Schools before:
   
   The only change is that Thomas High 9th grade scores are not beeing counted.
   We will look at the total average to see what the influence of this update was.
-
+___
   ###### Reading after update:
+  
   ![image](https://user-images.githubusercontent.com/91682586/141183817-965dbaaa-3e1c-4808-999e-35bb3a72c1d6.png)
 
 
@@ -93,8 +94,7 @@ Bottom Schools before:
   
   ![image](https://user-images.githubusercontent.com/91682586/141183028-4f710864-73fb-4fbf-8383-a600d65bc35e.png)
 
-  
-  
+
   ###### Reading before: 
   
   ![image](https://user-images.githubusercontent.com/91682586/141182445-1fda642d-4336-4d09-aa85-c2367ade3bde.png)
@@ -103,7 +103,7 @@ Bottom Schools before:
   
   ![image](https://user-images.githubusercontent.com/91682586/141182525-08aa6802-b4b6-4543-97f2-3677d1acbe8a.png)
 
-
+___
   
 - Scores by school spending:
 
@@ -115,18 +115,26 @@ The change did not affect the School spending sumamry.
 
 before: ![image](https://user-images.githubusercontent.com/91682586/141182719-75317b0b-8d30-48ab-a440-f61fbf7fdc50.png)
 
-
- - Scores by school size
+___
+ - Scores by school size:
+ The scroes by school size did not change.
+ 
 ![image](https://user-images.githubusercontent.com/91682586/140995815-51b05cd0-83ab-4876-a590-d8e6480d7204.png)
 
-before: ![image](https://user-images.githubusercontent.com/91682586/141182089-f93f9576-b3bb-4fe3-b90b-4f2657ce92c7.png)
+before:
 
+![image](https://user-images.githubusercontent.com/91682586/141182089-f93f9576-b3bb-4fe3-b90b-4f2657ce92c7.png)
+---
  - Scores by school type
+
+after update:
 
 ![image](https://user-images.githubusercontent.com/91682586/140995899-da08c16a-f973-47ca-b69d-d9de991c71c3.png)
 
-before: ![image](https://user-images.githubusercontent.com/91682586/141182197-2f1ef6e8-a7ce-48eb-b277-d0987f4d7d82.png)
+before: 
 
+![image](https://user-images.githubusercontent.com/91682586/141182197-2f1ef6e8-a7ce-48eb-b277-d0987f4d7d82.png)
+---
 Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 -Change 1
