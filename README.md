@@ -4,7 +4,6 @@ Overview of the school district analysis: Explain the purpose of this analysis.
 The school board has discovered evidence for academic dishonesty, specifically, reading and math grades for Thomas High School ninth graders seem affecteed   
 The  purpose of the Analysis is to repeat the school district analysis, remove the affected grades as discussed with the school board and write up a report to describe how these changes affected the overall analysis.
 
-# Development Environment
 
 ## Results: 
 
