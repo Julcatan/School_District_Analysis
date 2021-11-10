@@ -5,7 +5,7 @@ The school board has discovered evidence for academic dishonesty, specifically, 
 The  purpose of the Analysis is to repeat the school district analysis, remove the affected grades as discussed with the school board and write up a report to describe how these changes affected the overall analysis.
 
  
-## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+## Results: 
 
  - How is the district summary affected?
 
