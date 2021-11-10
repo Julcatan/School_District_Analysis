@@ -106,7 +106,7 @@ ___
 ___
   
 - Scores by school spending:
-
+The scroes by school spending did not change.
 
 
  ![image](https://user-images.githubusercontent.com/91682586/140995639-c2baea34-3738-4942-921d-2256124e3dbf.png)
