@@ -80,6 +80,9 @@ Bottom Schools before:
 ### How does replacing the ninth-grade scores affect the following:
 
   #### Math and reading scores by grade
+  
+  The only change is that Thomas High 9th grade scores are not beeing counted.
+  We will look at the total average to see what the influence of this update was.
 
   ###### Reading after update:
   ![image](https://user-images.githubusercontent.com/91682586/141183817-965dbaaa-3e1c-4808-999e-35bb3a72c1d6.png)
@@ -102,14 +105,11 @@ Bottom Schools before:
 
 
   
-
-  
-  
-  
+- Scores by school spending:
 
 
+The change did not affect the School spending sumamry. 
 
-- Scores by school spending
  ![image](https://user-images.githubusercontent.com/91682586/140995639-c2baea34-3738-4942-921d-2256124e3dbf.png)
 
 
