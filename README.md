@@ -81,22 +81,23 @@ Bottom Schools before:
 
  - Math and reading scores by grade
 
-Math scores by grade after update :
-![image](https://user-images.githubusercontent.com/91682586/141178321-cb9d27e1-7bc6-4566-8e2e-6cfa0b9e8c7b.png)
+
+  Math scores by grade after update :
+  ![image](https://user-images.githubusercontent.com/91682586/141178321-cb9d27e1-7bc6-4566-8e2e-6cfa0b9e8c7b.png)
 
 
-Math Scores by Grade before::
-![image](https://user-images.githubusercontent.com/91682586/141177451-0dafc698-8b85-4955-904d-be5b456ebbae.png)
-
-
-
-Reading Scores by Grade after update: 
-![image](https://user-images.githubusercontent.com/91682586/141178375-14b0c188-fa96-4f48-a2df-32e0cfbfcdff.png)
+  Math Scores by Grade before::
+  ![image](https://user-images.githubusercontent.com/91682586/141177451-0dafc698-8b85-4955-904d-be5b456ebbae.png)
 
 
 
-reading scores by grade before: 
-![image](https://user-images.githubusercontent.com/91682586/141178003-431575b2-54e8-49bb-a930-45be1bb1f08f.png)
+  Reading Scores by Grade after update: 
+  ![image](https://user-images.githubusercontent.com/91682586/141178375-14b0c188-fa96-4f48-a2df-32e0cfbfcdff.png)
+
+
+
+  Reading scores by Grade before: 
+  ![image](https://user-images.githubusercontent.com/91682586/141178003-431575b2-54e8-49bb-a930-45be1bb1f08f.png)
 
 
 
