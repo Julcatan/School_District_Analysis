@@ -7,7 +7,7 @@ The  purpose of the Analysis is to repeat the school district analysis, remove t
  
 ## Results: 
 
- - How is the district summary affected?
+ ### How is the district summary affected?
 
   - The grades of Thomas High School ninth graders were replaced with NaN. The replacement did not significantly affect the school district summary.
       
@@ -24,8 +24,8 @@ School district summary before:
 How is the school summary affected?
 
 The updated analysis only affects Thomas High School in the overall school summary. All other scores stay unchanged.
-   - The % Passing Reading decreased from 97.3% to 69.7% 
-   - The 5 Passing Math decreased from 93.3% to 66.9%
+   - The % Passing Reading for Thomas High School decreased from 97.3% to 69.7% 
+   - The 5 Passing Math for Thomas High School decreased from 93.3% to 66.9%
    - The Overall % Passing rate for Thomas High School decreased from 91% to 65.1%   
 
 Per School summary after update:
