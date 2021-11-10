@@ -79,24 +79,24 @@ Bottom Schools before:
 
 ### How does replacing the ninth-grade scores affect the following:
 
- - Math and reading scores by grade
+  #### Math and reading scores by grade
 
-  Reading after update:
-  
-  ![image](https://user-images.githubusercontent.com/91682586/141183082-12f0919b-b5dc-4026-8687-a77e44508103.png)
+  ###### Reading after update:
+  ![image](https://user-images.githubusercontent.com/91682586/141183817-965dbaaa-3e1c-4808-999e-35bb3a72c1d6.png)
+
 
   
-  Math after updatee:
+  ###### Math after updatee:
   
   ![image](https://user-images.githubusercontent.com/91682586/141183028-4f710864-73fb-4fbf-8383-a600d65bc35e.png)
 
   
   
-  Reading before: 
+  ###### Reading before: 
   
   ![image](https://user-images.githubusercontent.com/91682586/141182445-1fda642d-4336-4d09-aa85-c2367ade3bde.png)
   
-  Math before: 
+  ##### Math before: 
   
   ![image](https://user-images.githubusercontent.com/91682586/141182525-08aa6802-b4b6-4543-97f2-3677d1acbe8a.png)
 
