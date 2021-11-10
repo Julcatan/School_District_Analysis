@@ -10,8 +10,7 @@ The  purpose of the Analysis is to repeat the school district analysis, remove t
  - How is the district summary affected?
 
   - The grades of Thomas High School ninth graders were replaced with NaN. The replacement did not significantly affect the school district summary.
-    - The Overall Passing Percentage was reduced by 0.7%. 
-    
+      
 
 School district summary after update:
 ![image](https://user-images.githubusercontent.com/91682586/141134420-19ed6785-6978-4ce6-884a-1763e7bf39d6.png)
@@ -24,7 +23,9 @@ School district summary before:
 How is the school summary affected?
 
 The updated analysis only affects Thomas High School in the overall school summary. All other scores stay unchanged.
-The %Passing rate for Thomas High School increased from ... to 97.0...The Overall Passing for the school to 90.630324%
+   - The % Passing Reading decreased from 97.3% to 69.7% 
+   - The 5 Passing Math decreased from 93.3% to 66.9%
+   - The Overall % Passing rate for Thomas High School decreased from 91% to 65.1%   
 
 Per School summary after update:
 
@@ -39,15 +40,23 @@ How does replacing the ninth graders’ math and reading scores affect Thomas Hi
 
 Top Schools after update:
 
+![image](https://user-images.githubusercontent.com/91682586/141137327-9b29d110-95bb-4fe5-b745-cfd037e92ca3.png)
 
+
+Bottom Schools after update: 
+
+![image](https://user-images.githubusercontent.com/91682586/141137404-035e65d0-e5cc-4c98-8e53-c41f2f221c15.png)
 
 
 Top Schools before:
+
+![image](https://user-images.githubusercontent.com/91682586/141136747-1f7b8ca8-3afa-4123-a8ba-d0594fa12952.png)
 
 
 
 Bottom Schools before:
 
+![image](https://user-images.githubusercontent.com/91682586/141136874-6ffb8107-bf99-4f6a-93cf-27eecbc8bae3.png)
 
 
 
