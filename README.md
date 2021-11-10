@@ -37,22 +37,21 @@ Per School summary before:
 ![image](https://user-images.githubusercontent.com/91682586/141133669-9feb2538-cea5-488e-8247-b34ffa41f747.png)
 
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 Top Schools after update:
 
 ![image](https://user-images.githubusercontent.com/91682586/141137327-9b29d110-95bb-4fe5-b745-cfd037e92ca3.png)
 
-
-Bottom Schools after update: 
-
-![image](https://user-images.githubusercontent.com/91682586/141137404-035e65d0-e5cc-4c98-8e53-c41f2f221c15.png)
-
-
 Top Schools before:
 
 ![image](https://user-images.githubusercontent.com/91682586/141136747-1f7b8ca8-3afa-4123-a8ba-d0594fa12952.png)
 
+
+
+Bottom Schools after update: 
+
+![image](https://user-images.githubusercontent.com/91682586/141137404-035e65d0-e5cc-4c98-8e53-c41f2f221c15.png)
 
 
 Bottom Schools before:
