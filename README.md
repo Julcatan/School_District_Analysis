@@ -108,7 +108,7 @@ ___
 - Scores by school spending:
 
 
-The change did not affect the School spending sumamry. 
+The change did not affect the School spending summary. 
 
  ![image](https://user-images.githubusercontent.com/91682586/140995639-c2baea34-3738-4942-921d-2256124e3dbf.png)
 
