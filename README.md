@@ -4,7 +4,8 @@ Overview of the school district analysis: Explain the purpose of this analysis.
 The school board has discovered evidence for academic dishonesty, specifically, reading and math grades for Thomas High School ninth graders seem affecteed   
 The  purpose of the Analysis is to repeat the school district analysis, remove the affected grades as discussed with the school board and write up a report to describe how these changes affected the overall analysis.
 
- 
+# Development Environment
+
 ## Results: 
 
  ### How is the district summary affected?
@@ -106,7 +107,7 @@ ___
 ___
   
 - Scores by school spending:
-The scroes by school spending did not change.
+The scores by school spending did not change.
 
 
  ![image](https://user-images.githubusercontent.com/91682586/140995639-c2baea34-3738-4942-921d-2256124e3dbf.png)
@@ -136,7 +137,8 @@ before:
 ---
 Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
--Change 1
--Change 2
--Change 3
--Change 4
+-The Overall % Passing rate for Thomas High School decreased from 91% to 65.1% 
+-The changes did not affect the rranking of the Top Schools. 
+-Math and reading scores by grade
+-Thomas High 9th grade scores are not beeing counted in the Reading and Math by grade summary
+-The changes affected all data points in the school summary at a small degree but the changes are not signifikantly altering the results.
