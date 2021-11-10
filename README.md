@@ -12,34 +12,34 @@ The  purpose of the Analysis is to repeat the school district analysis, remove t
   - The grades of Thomas High School ninth graders were replaced with NaN. The replacement did not significantly affect the school district summary.
       
 
-School district summary after update:
+     - School district summary after update:
 
-![image](https://user-images.githubusercontent.com/91682586/141134420-19ed6785-6978-4ce6-884a-1763e7bf39d6.png)
+      ![image](https://user-images.githubusercontent.com/91682586/141134420-19ed6785-6978-4ce6-884a-1763e7bf39d6.png)
 
-School district summary before:
+     - School district summary before:
 
-![image](https://user-images.githubusercontent.com/91682586/141134551-9b646c46-dbee-4990-90fb-023e2a8a7608.png)
+       ![image](https://user-images.githubusercontent.com/91682586/141134551-9b646c46-dbee-4990-90fb-023e2a8a7608.png)
 
 
-How is the school summary affected?
+ ### How is the school summary affected?
 
-Per School summary before:
+  -  Per School summary before:
 
-![image](https://user-images.githubusercontent.com/91682586/141133669-9feb2538-cea5-488e-8247-b34ffa41f747.png)
+  ![image](https://user-images.githubusercontent.com/91682586/141133669-9feb2538-cea5-488e-8247-b34ffa41f747.png)
 
-Replacing the scores of the ninth graders with NaN affects Thomas High School as follows: 
+   - Replacing the scores of the ninth graders with NaN affects Thomas High School as follows: 
 
-   - The Math Scores decreased by 0.07
-   - The Reading Scores increased by 0.05
-   - The % Passing Math for Thomas High School decreased from 93.3% to 66.9%
-   - The % Passing Reading for Thomas High School decreased from 97.3% to 69.7% 
-   - The Overall % Passing rate for Thomas High School decreased from 91% to 65.1%   
+    - The Math Scores decreased by 0.07
+    - The Reading Scores increased by 0.05
+    - The % Passing Math for Thomas High School decreased from 93.3% to 66.9%
+    - The % Passing Reading for Thomas High School decreased from 97.3% to 69.7% 
+    - The Overall % Passing rate for Thomas High School decreased from 91% to 65.1%   
 
-Per School summary after replacing 9th grade scores with NaN:
+  - Per School summary after replacing 9th grade scores with NaN:
 
-![image](https://user-images.githubusercontent.com/91682586/141134167-45fe98b2-dd67-4183-9080-32f8cf2a12dd.png)
-
-When we removed the ninth grade from the calculation it affected Thomas High School as follows.
+    ![image](https://user-images.githubusercontent.com/91682586/141134167-45fe98b2-dd67-4183-9080-32f8cf2a12dd.png)
+___
+  When we removed the ninth grade from the calculation it affected Thomas High School as follows.
 
   - The math scores decreased by 0.7
   - The reading scores increased by 0.05
@@ -47,7 +47,7 @@ When we removed the ninth grade from the calculation it affected Thomas High Sch
   - The % Passing Reading decreased from 97.3% to 97%
   - The Overall Passing % decreased 90,9% to 90.6%
   
-![image](https://user-images.githubusercontent.com/91682586/141144376-dff8fed1-0a2b-452f-a62d-49563f310502.png)
+    ![image](https://user-images.githubusercontent.com/91682586/141144376-dff8fed1-0a2b-452f-a62d-49563f310502.png)
 
 
 The other data in the summary was not affected.
@@ -82,7 +82,7 @@ Bottom Schools before:
   #### Math and reading scores by grade
   
   The only change is that Thomas High 9th grade scores are not beeing counted.
-  We will look at the total average to see what the influence of this update was.
+  
 ___
   ###### Reading after update:
   
