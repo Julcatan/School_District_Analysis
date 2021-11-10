@@ -99,7 +99,7 @@ ___
   
   ![image](https://user-images.githubusercontent.com/91682586/141182445-1fda642d-4336-4d09-aa85-c2367ade3bde.png)
   
-  ##### Math before: 
+  ######  Math before: 
   
   ![image](https://user-images.githubusercontent.com/91682586/141182525-08aa6802-b4b6-4543-97f2-3677d1acbe8a.png)
 
