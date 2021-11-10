@@ -10,10 +10,10 @@ The  purpose of the Analysis is to repeat the school district analysis, remove t
  - How is the district summary affected?
 
   - The grades of Thomas High School ninth graders were replaced with NaN. The replacement did not significantly affect the school district summary.
-   - The Average Reading Score did not change.
-   - The Average Math score was reduced by 0.1. The Overall Passing Percentage was reduced by 1%. 
-   - The % Passing Math score was reduced by 0.3%
-   - The % Passing Reading Score was reduced by 0.1%
+    - The Average Math score was reduced by 0.1. The Overall Passing Percentage was reduced by 1%. 
+    - The Average Reading Score did not change.
+    - The % Passing Math score was reduced by 
+    - The % Passing Reading Score was reduced by 
 
 School district summary after update:
 
