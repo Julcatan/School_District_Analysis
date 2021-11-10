@@ -137,7 +137,7 @@ before:
 Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 -The Overall % Passing rate for Thomas High School decreased from 91% to 65.1% 
--The changes did not affect the rranking of the Top Schools. 
+-The changes did not affect the ranking of the Top Schools. 
 -Math and reading scores by grade
--Thomas High 9th grade scores are not beeing counted in the Reading and Math by grade summary
--The changes affected all data points in the school summary at a small degree but the changes are not signifikantly altering the results.
+-Thomas High 9th grade scores are excluded in the Reading and Math by grade summary
+-The changes in the Math and Reading scores were minimal but the changes in the passing percentages were  significant.
