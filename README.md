@@ -53,9 +53,7 @@ When we removed the ninth grade from the calculation it affected Thomas High Sch
 The other data in the summary was not affected.
 
 
-
-
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 Top Schools after update:
 
