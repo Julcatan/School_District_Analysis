@@ -81,7 +81,9 @@ Bottom Schools before:
 
  - Math and reading scores by grade
 
-  
+  Reading before: ![image](https://user-images.githubusercontent.com/91682586/141182445-1fda642d-4336-4d09-aa85-c2367ade3bde.png)
+  Math before: ![image](https://user-images.githubusercontent.com/91682586/141182525-08aa6802-b4b6-4543-97f2-3677d1acbe8a.png)
+
 
   
 
@@ -95,7 +97,8 @@ Bottom Schools before:
  ![image](https://user-images.githubusercontent.com/91682586/140995639-c2baea34-3738-4942-921d-2256124e3dbf.png)
 
 
-before: 
+before: ![image](https://user-images.githubusercontent.com/91682586/141182719-75317b0b-8d30-48ab-a440-f61fbf7fdc50.png)
+
 
  - Scores by school size
 ![image](https://user-images.githubusercontent.com/91682586/140995815-51b05cd0-83ab-4876-a590-d8e6480d7204.png)
