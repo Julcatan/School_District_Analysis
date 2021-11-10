@@ -13,6 +13,7 @@ The  purpose of the Analysis is to repeat the school district analysis, remove t
       
 
 School district summary after update:
+
 ![image](https://user-images.githubusercontent.com/91682586/141134420-19ed6785-6978-4ce6-884a-1763e7bf39d6.png)
 
 School district summary before:
