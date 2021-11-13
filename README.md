@@ -90,7 +90,7 @@ ___
 
 
   
-  ###### Math after updatee:
+  ###### Math after update:
   
   ![image](https://user-images.githubusercontent.com/91682586/141183028-4f710864-73fb-4fbf-8383-a600d65bc35e.png)
 
